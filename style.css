@@ -2,5 +2,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 96px;
-    background-image: url(orangw.png) top center fixed no-repeat;
+    background: url('orangw.png')
+    center 
+    center 
+    no-repeat;
+    background-size: cover; 
 }
